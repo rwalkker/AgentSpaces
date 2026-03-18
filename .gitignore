@@ -6,4 +6,5 @@ remmy.db
 *.pdf
 *.csv
 *_slack.txt
+*.log
 .DS_Store
